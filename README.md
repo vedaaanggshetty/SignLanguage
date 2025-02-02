@@ -87,15 +87,3 @@ cd SignLanguage/my-react-app/backend</code></pre>
     <li>The text will be displayed on the screen and spoken aloud.</li>
 </ol>
 
-<h2>Contributing</h2>
-<p>We welcome contributions from the open-source community. If you'd like to contribute:</p>
-<ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch (`git checkout -b feature-xyz`).</li>
-    <li>Commit your changes (`git commit -am 'Add feature XYZ'`).</li>
-    <li>Push to the branch (`git push origin feature-xyz`).</li>
-    <li>Create a pull request.</li>
-</ol>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
