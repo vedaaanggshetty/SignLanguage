@@ -1,10 +1,4 @@
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign Language Translator - README</title>
-</head>
-<body>
     <h1>Sign Language Translator</h1>
 
     <p>This project is a <strong>Sign Language Translator</strong> that allows real-time translation of sign language gestures into text using computer vision and machine learning techniques. It uses a webcam to capture gestures and translates them into corresponding text and speech. The application serves as a tool for the deaf and hard-of-hearing community, aiming to bridge communication gaps.</p>
